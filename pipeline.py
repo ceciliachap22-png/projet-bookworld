@@ -29,8 +29,8 @@ def transform_data():
 
 
 def load_final_database():
-    """Création de la base finale"""
     print("Création de la base finale bookworld_final.db")
+
     def main():
 
     extract_csv()
